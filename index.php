@@ -2,7 +2,6 @@
 <?php
 
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -20,8 +19,6 @@
   <h1> The Tourist  Touch</h1>
   <p>we help tourist all over Bangladesh</p>
 </div>
-
-
 
 <!---this is mainly the navbar-->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
@@ -89,7 +86,6 @@
  </div>
 <hr>
 
-
 <!--content of text---->
 <div class="card text-center container">
   <div class="card-header">
@@ -110,14 +106,8 @@
 </div>
 
 
-
-
-
-
-
 <!--Card view system-->
 <div class="container" style="margin-top:25px;">
-
 
 <div class="card-deck">
 
@@ -141,7 +131,6 @@
 
 </div>
 
-
 <div class="card " style="width: 18rem;">
   <img src="img/place1.jpg" class="card-img-top" alt="book any hotel">
   <div class="card-body">
@@ -154,10 +143,6 @@
 </div>
 </div>
 <!--fotter part-->
-
-
-
-
 
 <!--javascript file of bootstrap--------->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-    q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
